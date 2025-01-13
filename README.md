@@ -1,8 +1,8 @@
-# 👋 Hi, I'm xyz!
+# 👋 Hi, I'm Mayank Joshi!
 
 🏫 **B.Tech. in Computer Science Engineering** (Expected Graduation: June 2026)  
 📍 **Address:** Haldwani, Uttarakhand, India  
-📧 **Email:** abc@gmail.com  
+📧 **Email:** mayankmonu9182@gmail.com  
 🔗 **GitHub** | **LinkedIn** | **LeetCode**
 
 ---
