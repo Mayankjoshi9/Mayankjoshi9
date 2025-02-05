@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mayankjoshi9" alt="mayankjoshi" /></a> </p>
 
-- 🔭 I’m currently working on **Connectify Chatapp**
+- 🔭 I’m currently working on **Decentralised Freelancing Marketplace**
 
 - 🌱 I’m currently learning **Next js**
 
