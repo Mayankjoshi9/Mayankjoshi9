@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Frontend**
 
-- 👨‍💻 All of my projects are available at [availabe soon...]
+- 👨‍💻 All of my projects are available at (https://mayankjoshi9.github.io/portfolio-website/)
 
 - 💬 Ask me about **react, node js, machine learning**
 
