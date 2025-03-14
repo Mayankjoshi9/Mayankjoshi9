@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mayankjoshi9" alt="mayankjoshi" /></a> </p>
 
-- 🔭 I’m currently working on **Decentralised Freelancing Marketplace**
+- 🔭 I’m currently working on **Sensai-AI-Career-Coach**
 
-- 🌱 I’m currently learning **Next js**
+- 🌱 I’m currently learning **Docker**
 
-- 👯 I’m looking to collaborate on **React Project**
+- 👯 I’m looking to collaborate on **NextJs Projects**
 
 - 🤝 I’m looking for help with **Frontend**
 
 - 👨‍💻 All of my projects are available at (https://mayankjoshi9.github.io/portfolio-website/)
 
-- 💬 Ask me about **react, node js, machine learning**
+- 💬 Ask me about **react, node js,nextjs,postgresql,mongodb, machine learning**
 
 - 📫 How to reach me **mayankmonu9182j@gmail.com**
 
