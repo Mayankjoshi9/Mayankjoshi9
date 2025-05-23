@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Frontend**
 
-- 👨‍💻 All of my projects are available at [(https://mayankjoshi9.github.io/portfolio-website/)](https://my-portfolio-n4h25ngu0-mayank-s-projects-b3cdebc8.vercel.app/)
+- 👨‍💻 All of my projects are available at https://my-portfolio-gilt-delta-66.vercel.app/
 
 - 💬 Ask me about **react, node js,nextjs,postgresql,mongodb, machine learning**
 
